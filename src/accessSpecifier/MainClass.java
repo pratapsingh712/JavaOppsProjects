@@ -12,6 +12,8 @@ public class MainClass {
 		
 		//d.j = 45; // private
 		
+		// for commit operation
+		
 		d.k = 55; // protected 
 		
 		d.g = 90; // default
